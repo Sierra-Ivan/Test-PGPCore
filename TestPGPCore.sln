@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36616.10 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test PGP", "Test PGP.csproj", "{AC1651BB-5D6C-45A7-96F2-FB82FDE1F3E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPGPCore", "TestPGPCore.csproj", "{367E7DCC-F518-4C3E-9D8B-7C1A96241A40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AC1651BB-5D6C-45A7-96F2-FB82FDE1F3E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC1651BB-5D6C-45A7-96F2-FB82FDE1F3E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC1651BB-5D6C-45A7-96F2-FB82FDE1F3E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC1651BB-5D6C-45A7-96F2-FB82FDE1F3E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{367E7DCC-F518-4C3E-9D8B-7C1A96241A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{367E7DCC-F518-4C3E-9D8B-7C1A96241A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{367E7DCC-F518-4C3E-9D8B-7C1A96241A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{367E7DCC-F518-4C3E-9D8B-7C1A96241A40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {EB4FFF10-E303-48DB-A143-BF827E10695E}
+		SolutionGuid = {AD052B03-84A7-4BF2-99B1-64EA3F8F319D}
 	EndGlobalSection
 EndGlobal
